@@ -1,0 +1,17 @@
+#myMap {
+  position: relative;
+  width: 100%;
+  height: 980px;
+  border-radius: 8px;
+  }
+
+body {
+ background-color: #ebe7e4;
+
+}
+h1{
+  font-size: 35px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:rgb(95, 90, 90);
+  padding: 25px;
+}
